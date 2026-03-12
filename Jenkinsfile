@@ -6,7 +6,7 @@ pipeline {
 
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/yourusername/RegressionTesting.git'
+                git 'https://github.com/Sabareeswaran06/RegressionTesting.git'
             }
         }
 
